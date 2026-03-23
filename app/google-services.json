@@ -13,7 +13,20 @@
           "package_name": "com.example.firebasedbimplement"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "786458816428-qgj9817jsu3ou3saefkronhhrg5spl8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedbimplement",
+            "certificate_hash": "bb7a9f595b03530bc99b6e466a71816ff10ae16c"
+          }
+        },
+        {
+          "client_id": "786458816428-lev30n5ktlhil4nju981t289bjo0ftvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCowIcQHLggsQvNHfXEuAuuxPWnpeICKtU"
@@ -21,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786458816428-lev30n5ktlhil4nju981t289bjo0ftvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

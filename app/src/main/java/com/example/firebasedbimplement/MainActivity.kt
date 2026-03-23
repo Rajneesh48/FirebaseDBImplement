@@ -22,8 +22,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             FirebaseDBImplementTheme {
-                FirebaseUI(db)
-
+                HomeScreen()
                 }
             }
         }
